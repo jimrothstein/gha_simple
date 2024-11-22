@@ -1,1 +1,1 @@
-print("hi, first gha")
+print("hi, first gha_simple")
